@@ -1,5 +1,5 @@
 const header = {
-  homepage: 'https://gabenedden.github.io/',
+  homepage: 'https://gabenedden.github.io/portfolio-page',
   title: 'GZ.',
 }
 
@@ -10,8 +10,8 @@ const about = {
     'Gabriel is a Web Developer living in Montreal, QC',
   resume: 'https://example.com',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/gabriel-zur-nedden-6a108874/',
+    github: 'https://github.com/GabeNedden',
   },
 }
 
