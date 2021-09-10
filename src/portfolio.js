@@ -17,37 +17,37 @@ const about = {
 
 const projects = [
   {
-    name: 'Project 1',
+    name: 'G Task',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'G Task is a streamlined Project Management application for teams of all sizes.',
+    stack: ['React', 'MongoDB', 'NodeJS', 'GraphQL'],
+    sourceCode: 'https://github.com/GabeNedden/task-tracker-client',
+    livePreview: 'https://gtasktracker.netlify.app/',
   },
   {
-    name: 'Project 2',
+    name: 'Cinelect',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Cinelect uses the OpenMovie Database API to compare two films on a varity of categories.',
+    stack: ['Axios', 'Bulma CSS', 'Javascript'],
+    sourceCode: 'https://github.com/GabeNedden/Cinelect',
+    livePreview: 'https://cinelect.vercel.app/',
   },
   {
-    name: 'Project 3',
+    name: 'Contribute',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Contribute is a learning tool for newer developers interested in learning how to contribute to Open Source projects.',
+    stack: ['HTML', 'CSS'],
+    sourceCode: 'https://github.com/GabeNedden/contribute',
+    livePreview: 'https://contribute.work/',
   },
 ]
 
 const skills = [
+  'JavaScript',
+  'React',
   'HTML',
   'CSS',
-  'JavaScript',
   'TypeScript',
-  'React',
   'Material UI',
   'Git',
   'CI/CD',
