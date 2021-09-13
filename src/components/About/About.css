@@ -1,6 +1,7 @@
 .about {
   flex-direction: column;
   margin-top: 3em;
+  text-align: center;
 }
 
 .about__name {
@@ -9,6 +10,7 @@
 
 .about__role {
   margin-top: 1.2em;
+  text-align: center;
 }
 
 .about__desc {
@@ -23,6 +25,7 @@
 
 .about .link--icon {
   margin-right: 0.8em;
+  margin-top: 0.8em;
 }
 
 .about .btn--outline {
@@ -31,7 +34,7 @@
 
 @media (max-width: 600px) {
   .app .about {
-    align-items: flex-start;
+    align-items: center;
     margin-top: 2em;
   }
 }
