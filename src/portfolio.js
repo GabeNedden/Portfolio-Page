@@ -5,7 +5,7 @@ const header = {
 
 const about = {
   name: 'Gabriel Zur Nedden',
-  role: 'Full Stack Engineer',
+  role: 'Full Stack Web Developer',
   description:
     'Gabriel is a Web Developer living in Montreal, QC',
   resume: 'https://example.com',
