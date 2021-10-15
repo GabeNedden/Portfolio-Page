@@ -25,12 +25,12 @@ const projects = [
     livePreview: 'https://gtasktracker.netlify.app/',
   },
   {
-    name: 'Cinelect',
+    name: 'Getflix',
     description:
-      'Cinelect uses the OpenMovie Database API to compare two films on a varity of categories.',
-    stack: ['Axios', 'Bulma CSS', 'Javascript'],
-    sourceCode: 'https://github.com/GabeNedden/Cinelect',
-    livePreview: 'https://cinelect.vercel.app/',
+      'Getflix is a Netflix clone that benefits from heavy use Styled and Compound Components that are built to be reusable.',
+    stack: ['React', 'CSS', 'Javascript'],
+    sourceCode: 'https://github.com/GabeNedden/Getflix',
+    livePreview: 'https://getflix2021.netlify.app/',
   },
   {
     name: 'Contribute',
@@ -39,6 +39,14 @@ const projects = [
     stack: ['HTML', 'CSS'],
     sourceCode: 'https://github.com/GabeNedden/contribute',
     livePreview: 'https://contribute.work/',
+  },
+  {
+    name: 'Cinelect',
+    description:
+      'Cinelect uses the OpenMovie Database API to compare two films on a varity of categories.',
+    stack: ['Axios', 'Bulma CSS', 'Javascript'],
+    sourceCode: 'https://github.com/GabeNedden/Cinelect',
+    livePreview: 'https://cinelect.vercel.app/',
   },
 ]
 
