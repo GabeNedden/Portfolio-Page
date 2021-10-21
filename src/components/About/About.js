@@ -21,11 +21,15 @@ const About = () => {
             href={social.github}
             aria-label='github'
             className='link link--icon'
+            target="_blank" rel="noopener noreferrer"
           >
             <GitHubIcon />
           </a>
 
-          <a href={resume}>
+          <a 
+            href={resume}
+            target="_blank" rel="noopener noreferrer"
+          >
             <span type='button' className='btn btn--outline'>
               Resume
             </span>
@@ -35,6 +39,7 @@ const About = () => {
             href={social.linkedin}
             aria-label='linkedin'
             className='link link--icon'
+            target="_blank" rel="noopener noreferrer"
           >
             <LinkedInIcon />
           </a>
