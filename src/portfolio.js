@@ -5,9 +5,9 @@ const header = {
 
 const about = {
   name: 'Gabriel Zur Nedden',
-  role: 'Full Stack Web Developer',
+  role: 'Full Stack Web Developer based in Montreal',
   description:
-    'Gabriel is a Web Developer living in Montreal, QC',
+    '',
   resume: '../../GabrielZurNeddenResume.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/gabriel-zur-nedden-6a108874/',
