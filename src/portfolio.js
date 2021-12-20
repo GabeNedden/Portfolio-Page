@@ -8,7 +8,7 @@ const about = {
   role: 'Full Stack Web Developer',
   description:
     'Gabriel is a Web Developer living in Montreal, QC',
-  resume: 'https://example.com',
+  resume: '../../GabrielZurNeddenResume.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/gabriel-zur-nedden-6a108874/',
     github: 'https://github.com/GabeNedden',

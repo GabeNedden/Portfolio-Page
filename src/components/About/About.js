@@ -27,7 +27,7 @@ const About = () => {
           </a>
 
           <a 
-            href={resume}
+            href='../../GabrielZurNeddenResume.pdf'
             target="_blank" rel="noopener noreferrer"
           >
             <span type='button' className='btn btn--outline'>
