@@ -48,6 +48,13 @@ const projects = [
     sourceCode: 'https://github.com/GabeNedden/Cinelect',
     livePreview: 'https://cinelect.vercel.app/',
   },
+  {
+    name: 'G Video',
+    description:
+      'G Video provides videocall and online chat services, similar to Zoom, or Skype',
+    stack: ['Agora SDK', 'Javascript'],
+    livePreview: 'https://g-videochat.netlify.app/create',
+  },
 ]
 
 const skills = [
