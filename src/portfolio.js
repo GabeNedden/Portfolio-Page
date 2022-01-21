@@ -25,20 +25,27 @@ const projects = [
     livePreview: 'https://gtasktracker.netlify.app/',
   },
   {
+    name: 'Crypto Market',
+    description: 'In development Crypto news aggregator and trading platform',
+    stack: ['React'],
+    sourceCode: 'https://github.com/GabeNedden/crypto-Market',
+    livePreview: 'https://gcryptomarket.netlify.app/',
+  },
+  {
+    name: 'Contribute',
+    description:
+      'With over 40 Contributors and 11 Stars on Github; Contribute is a learning tool for developers interested in contributing to Open Source projects.',
+    stack: ['HTML', 'CSS'],
+    sourceCode: 'https://github.com/GabeNedden/contribute',
+    livePreview: 'https://contribute.work/',
+  },
+  {
     name: 'Getflix',
     description:
       'Getflix is a Netflix clone that benefits from heavy use Styled and Compound Components that are built to be reusable.',
     stack: ['React', 'CSS', 'Javascript'],
     sourceCode: 'https://github.com/GabeNedden/Getflix',
     livePreview: 'https://getflix2021.netlify.app/',
-  },
-  {
-    name: 'Contribute',
-    description:
-      'Contribute is a learning tool for newer developers interested in learning how to contribute to Open Source projects.',
-    stack: ['HTML', 'CSS'],
-    sourceCode: 'https://github.com/GabeNedden/contribute',
-    livePreview: 'https://contribute.work/',
   },
   {
     name: 'Cinelect',
