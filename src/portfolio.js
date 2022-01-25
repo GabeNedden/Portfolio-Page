@@ -26,8 +26,8 @@ const projects = [
   },
   {
     name: 'Crypto Market',
-    description: 'In development Crypto news aggregator and trading platform',
-    stack: ['React'],
+    description: 'In development Crypto news aggregator and Trading Platform',
+    stack: ['React', 'Redux Toolkit', 'Chart.js', 'AntD'],
     sourceCode: 'https://github.com/GabeNedden/crypto-Market',
     livePreview: 'https://gcryptomarket.netlify.app/',
   },
