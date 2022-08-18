@@ -59,7 +59,7 @@ const projects = [
       "DECEPTIVE SITE WARNING: Sadly, this has been flagged as a fake Netflix site and some browsers will warn users or try to block access. Getflix is a safe Netflix clone that benefits from heavy use Styled and Compound Components that are built to be reusable.",
     stack: ["React", "CSS", "Javascript"],
     sourceCode: "https://github.com/GabeNedden/Getflix",
-    livePreview: "https://getflix2021.netlify.app/",
+    livePreview: "https://getflixapp.netlify.app/",
   },
   {
     name: "Cinelect",
